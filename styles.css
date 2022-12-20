@@ -21,6 +21,19 @@ main {
 .info{
     align-self: center;
 }
+.info h1{
+    font-size: 2.1rem;
+}
+
+.info p{
+    font-size: large;
+}
+
+.info-button{
+    background-color: cadetblue;
+    font-size: 1.5rem;
+}
+
 .dishes{
     margin: 100px 0;
 }
